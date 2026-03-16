@@ -35,8 +35,10 @@ shown below
 Design a Single Phase Inverter having the DC input supply of 100V and output resistance 1 ohm using pulse generator.
 
 ## Simulation
-
+![Circuit](EXP%207%20CIRCUIT.jpg)
 
 ## Output
+![Waveform](EXP%207%20WAVEFORM.jpg)
 
 ## Result
+The design and simulation of sigle phase inverter is sucessfully simulated and verified.
